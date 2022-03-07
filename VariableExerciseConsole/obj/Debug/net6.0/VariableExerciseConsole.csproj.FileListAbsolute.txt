@@ -1,0 +1,15 @@
+C:\Users\abner\source\repos\VariableExercise\VariableExerciseConsole\bin\Debug\net6.0\VariableExerciseConsole.exe
+C:\Users\abner\source\repos\VariableExercise\VariableExerciseConsole\bin\Debug\net6.0\VariableExerciseConsole.deps.json
+C:\Users\abner\source\repos\VariableExercise\VariableExerciseConsole\bin\Debug\net6.0\VariableExerciseConsole.runtimeconfig.json
+C:\Users\abner\source\repos\VariableExercise\VariableExerciseConsole\bin\Debug\net6.0\VariableExerciseConsole.dll
+C:\Users\abner\source\repos\VariableExercise\VariableExerciseConsole\bin\Debug\net6.0\VariableExerciseConsole.pdb
+C:\Users\abner\source\repos\VariableExercise\VariableExerciseConsole\obj\Debug\net6.0\VariableExerciseConsole.csproj.AssemblyReference.cache
+C:\Users\abner\source\repos\VariableExercise\VariableExerciseConsole\obj\Debug\net6.0\VariableExerciseConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abner\source\repos\VariableExercise\VariableExerciseConsole\obj\Debug\net6.0\VariableExerciseConsole.AssemblyInfoInputs.cache
+C:\Users\abner\source\repos\VariableExercise\VariableExerciseConsole\obj\Debug\net6.0\VariableExerciseConsole.AssemblyInfo.cs
+C:\Users\abner\source\repos\VariableExercise\VariableExerciseConsole\obj\Debug\net6.0\VariableExerciseConsole.csproj.CoreCompileInputs.cache
+C:\Users\abner\source\repos\VariableExercise\VariableExerciseConsole\obj\Debug\net6.0\VariableExerciseConsole.dll
+C:\Users\abner\source\repos\VariableExercise\VariableExerciseConsole\obj\Debug\net6.0\refint\VariableExerciseConsole.dll
+C:\Users\abner\source\repos\VariableExercise\VariableExerciseConsole\obj\Debug\net6.0\VariableExerciseConsole.pdb
+C:\Users\abner\source\repos\VariableExercise\VariableExerciseConsole\obj\Debug\net6.0\VariableExerciseConsole.genruntimeconfig.cache
+C:\Users\abner\source\repos\VariableExercise\VariableExerciseConsole\obj\Debug\net6.0\ref\VariableExerciseConsole.dll
